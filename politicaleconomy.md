@@ -3,9 +3,11 @@
 * Aghion, P. and Howitt, P. "A Model of Growth through Creative Destruction", *Econometrica* 60:323-352
 * Braudel, F. *Civilisation matérielle, économie et capitalisme (XVe et XVIIIe siècles)*.
 * Ellman, M. *Socialist Planning.* 3e. 
+* Jaeggi, R. and Loick, D. eds. *Karl Marx - Perspektiven der Gesellschaftskritik*.
 * Korotayev, A. et al. *Introduction to Social Macrodynamics: Compact Macromodels of the World System Growth*
 * Marx, K. *Kapital. 1e Bd.*
 * --. *Grundrisse*.
+* Wallerstein, I. *The Modern World-System. Vol. 1*.
 
 **Recommended with significant qualifications**
 
@@ -46,4 +48,11 @@
 * --. *Kapital. 3e. Bd.*
 * McMichael, T. *Human Frontiers, Environments, and Disease*.
 * Meliantsev, V.A. "Russia's Comparative Economic Development in the Long Run", *Social Evolution & History* 3:106-138.
-* Nefefov, 
+* Nefedov, S.A. "A Model of Demographic Cycles in Traditional Societies: The Case of Ancient China", *Social Evolution & History* 3(1):69-80.
+* Postan, M.M. 1973. *Essays on Medieval Agriculture and General Problems of the Medieval Economy*.
+* Scholing, E. and Timmermann, V. "Why LDC Growth Rates Differ", *World Development* 16:1271-1294.
+* Simon, J. *The Economics of Population Growth*.
+* --. *The Ultimate Resource*.
+* --. *The Great Breakthrough and Its Cause*.
+Turchin, P. *Historical Dynamics*.
+Usher, D. "The Dynastic Cycle and the Stationary State", *The American Economic Review* 79:1031-1044.
