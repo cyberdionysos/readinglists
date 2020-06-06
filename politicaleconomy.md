@@ -36,7 +36,7 @@
 
 * Abel, W. *Agricultural Fluctuations in Europe from the Thirteenth to the Twentieth Centuries*
 * Aghion, P. and Howitt, P. *Endogenous Growth Theory*.
-* Aghihon, P. et al. eds. *Knowledge, Information, and Expectations in Modern Macroeconomics*.
+* Aghion, P. et al. eds. *Knowledge, Information, and Expectations in Modern Macroeconomics*.
 * Becker, G. ed. *Demographic and Economic Change in Developed Countries*.
 * Biraben, J-N. "An Essay Concerning Mankind's Evolution", *Population* 4:1-13.
 * Bongaarts, J. 2003. "Completing the Fertility Transition in the Developing World: The Role of Educational Differences and Fertility Preferences", *Population Studies* 57:321-335
