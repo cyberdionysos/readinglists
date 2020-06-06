@@ -79,6 +79,7 @@
 * Nefedov, S.A. "A Model of Demographic Cycles in Traditional Societies: The Case of Ancient China", *Social Evolution & History* 3(1):69-80.
 * Nolte, E. *Marxismus und Industrielle Revolution*.
 * Pasinetti, L.L. *Lectures on the Theory of Production*.
+* Phillips, L. and Rozworski, M. *People's Republic of Walmart*.
 * Postan, M.M. 1973. *Essays on Medieval Agriculture and General Problems of the Medieval Economy*.
 * Rodolsky, R. *The Making of Marx's 'Capital'.*
 * Scholing, E. and Timmermann, V. "Why LDC Growth Rates Differ", *World Development* 16:1271-1294.
