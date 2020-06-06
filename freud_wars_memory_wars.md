@@ -28,13 +28,13 @@
 
 # Recommended with significant qualification
 
-* Cheit, R.E. *The Witch Hunt Narrative*. (Cheit is an expert at setting up and knocking down strawmen and misunderstanding the theoretical psychological claims and arguments at stake.)
 * Crews, F. *The Memory Wars*. (It is good to get some of the fiercest, most pugnacious criticisms of Freud and of repressed memory, but it is questionable to me how much the dangerous and theoretically poor "repressed memory" and somatic traumatic memory ideas actually have to do with Freud and the European psychoanalytical tradition so much as American practitioners vaguely inspired by Freud).
 * Laplanche, J. *Après-coup : Problématiques VI*.
 * Webster, R. *Why Freud Was Wrong*. (Similar reservations as I have about Crews: some nuggets of the most powerful critiques of some of Freud's ideas are to be found here, but Webster often overstates his case, his Rylean logical-behaviorist arguments about the philosophy of mind are poor, and he is clearly ignorant of the intellectual history of 19th century Central European science and medicine and the subsequent history of the European psychoanalytic movement).
 
 # Actively dis-recommended
 
+* Cheit, R.E. *The Witch Hunt Narrative*. (Cheit is an expert at setting up and knocking down strawmen and misunderstanding the theoretical psychological claims and arguments at stake.)
 * Kolk, B.v.d. *The Body Keeps the Score*.
 * Masson, J.M. *The Assault on Truth*. (This book managed/s to simultaneously intellectually incredibly sloppy and to have been a major contributor *to* moral panic and the harm of recovered-memory therapy; it is utterly unhelpful in a scholarly sense to anyone in the Freud wars, whether anti, pro, or in between. A real feat).
 * Tallis, R. *Enemies of Hope*.
