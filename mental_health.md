@@ -2,7 +2,7 @@
 
 * Fassin, D. and Rechtman, R. *L’empire du traumatisme. Enquête sur la condition de victime*.
 * McNally, R.J. *Remembering Trauma*.
-* --. "Debunking Myths About Trauma and Memory", *The Canadian Journal of Psychiatry" 50(13)
+* --. "Debunking Myths About Trauma and Memory", *The Canadian Journal of Psychiatry* 50(13)
 * Pendergast, M. *The Repressed Memory Epidemic*.
 * Read, J. et al. "Electroconvulsive Therapy for Depression: A Review of the Quality of ECT versus Sham ECT Trials and Meta-Analyses", *Ethical Human Psychology and Psychiatry* 21(2)
 
