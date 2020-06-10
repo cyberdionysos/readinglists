@@ -21,6 +21,7 @@
 * Slee, T. *No One Makes You Shop at Wal-Mart*.
 * Smith, A. *The Wealth of Nations*.
 * Wallerstein, I. *The Modern World-System. Vol. 1*.
+* Wolff, R.P. *Understanding Marx*.
 
 **Recommended with significant qualifications**
 
