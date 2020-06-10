@@ -48,35 +48,22 @@
 * Balsam, R.H. "Why Freud was Wrong (Book Review)", *Choice* 33.
 * Beck, R. *We Believe the Children*.
 * Billig, M. *Freudian Repression*.
-* Byrd, K.R. "The narrative reconstructions of incest survivors", *American Psychology* 49(5):439-440.
-* Brand, B.L. et al. "Separating fact from fiction: An empirical examination of six myths about dissociative identity disorder", *Harvard Review of Psychiatry* 24(4):257-270.
 * Breger, L. *Freud*.
 * Broadbent, D.E. *Biology of Memory*.
-* --. *In Defense of Empirical Psychology*.
-* Callender, J.S. "Medicine and the books", *British Medical Journal* 312(7029)
 * Cannell, J. et al. "Standards of informed consent in recovered memory therapy", *Journal of the Academy of Psychiatry and the Law* 29:138-147.
 * Campbell, T.W. "Challenging psychologists and psychiatrists as expert witnesses", *Michicgan Bar Journal* Jan. 1994. 68-72.
 * Ceci, S.J. and Bruck, M. *Jeopardy in the Courtroom*.
 * Christianson, S-A. and Loftus, E.F. "Some characteristics of people's traumatic memories", *Bulletin of the Psychometric Society* 28(3):195-198.
 * Clancy, S. *Abducted*.
 * Conway, M.A. ed. *Recovered Memories and False Memories*.
-* Costin, L.B. et al. *The Politics of Child Abuse in America*.
 * Davies, G.M. and Dalgleish, T. eds. *Recovered Memories*.
 * Davies, G.M. and Thomson, D.M. eds. *Memory in Context*.
 * Decker, H.S. "Book Reviews: Nineteenth Century", *Isis* 91(1).
-* De Rivera, J. and Sabin, T. eds. *Believed-in Imaginings*.
 * Doris, J. ed. *The Suggestibility of Children's Recollections*.
 * Dufresne, T. *Against Freud*.
-* Ellis, B. "Satanic ritual abuse and legend ostension", *Journal of Psychology and Theology*.
-* Epstein, O.B. et al. eds. *Ritual Abuse and Mind Control*.
 * Esterson, A. *Seductive Mirage*.
-* Felitti, J.V. et al. "Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. The Adverse Childhood Experiences (ACE) study", *American Journal of Preventative Medicine* 14(4):245-258.
-* Femina, D.D. et al. "Child abuse: Adolescent records vs. adult recall", *Child Abuse & Neglect* 14:227-231.
 * Forrester, J. *Dispatches from the Freud Wars*.
-* Frank, J.D. and Frank, J.B. *Persuasion and Healing* 3e.
-* Frankel, F.H. "Hypnotizability and dissociation", *American Journal of Psychiatry* 147(7):823-829.
 * Gardner, S. *Irrationality and the Philosophy of Psychoanalysis*.
-* Ganaway, G.K. "Historical versus narrative truth: Clarifying the role of exogenous trauma in the etiology of MPD and its variants", *Dissociation* 2(4):205-220.
 * Johnston, A. *Time Driven*.
 * Johnston, A. and Malabou, C. *Self and Emotional Life*.
 * Laplanche, J. *Nouveaux fondemonts pour la psychanalyse*.
