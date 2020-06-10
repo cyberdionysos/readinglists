@@ -5,6 +5,7 @@
 * Brainerd, C.J. and Reyna, V.F. *The Science of False Memory*.
 * Cohen, S. *Folk Devils and Moral Panics*.
 * Fassin, D. and Rechtman, R. *L’empire du traumatisme. Enquête sur la condition de victime*.
+* Faigman, D.L et al. eds. *Modern scientific evidence: the law and science of expert testimony*
 * Freud, S. *Early Psycho-Analytic Publications*. 
 * --. *Introductory Lectures on Psychoanalysis*. 
 * --. *Two Case Histories*.
@@ -14,6 +15,7 @@
 * --. *The Interpretation of Dreams*.
 * --. *Totem and Taboo*.
 * Freud, S. and Breuer, J. *Studies on Hysteria*.
+* Keane, T.M. et al. "Utility of psychophysiological measurement in the diagnosis ofposttraumatic stress disorder: results from a Department of Veterans AffairsCooperative Study" *Journal of Consulting and Clinical Psychology* 66:914-923.
 * Laplanche, J. and Pontalis, J-B. *Vocabulaire de la psychanalyse*.
 * Lacan, J. *Séminaire X*.
 * --. *Séminaire XXII*.
@@ -22,6 +24,12 @@
 * Lear, J. *Freud*. 2e.
 * Leys, R. *Trauma*.
 * Loftus, E. *The Myth of Repressed Memory*. 
+* Lustig, C. and Hasher, L. "Implicit memory is not immune to interference.", *Psychological Bulletin* 127:618–28
+* McNally, R. *Remembering Trauma*.
+* --. "Debunking Myths about Trauma and Memory", *Canadian Journal of Psychiatry* 50(13)
+* McNally, R. and Clancy, S.A. "Sleep paralysis, sexual abuse, and space alienabduction", *Transcultural Psychiatry* 42:113-122.
+* McNally, R. et al. "Psychophysiological responding during script-driven imagery in people reporting abduction by space aliens", *Psychological Sciences* 15:493-497.
+* Orr, S.P. et al. "Psychophysiology of posttraumatic stressdisorder", *Psychiatric Clinics of North America* 25:271-293.
 * Patihis, L. et al. "Are the 'Memory Wars' Over? A Scientist-Practioner Gap in Beliefs About Repressed Memory", *Psychological Science* 25(2).
 * Pendergast, M. *The Repressed Memory Epidemic*.
 * Squire, L. and Kandel, E. *Memory*.
@@ -29,6 +37,7 @@
 # Recommended with significant qualification
 
 * Crews, F. *The Memory Wars*. (It is good to get some of the fiercest, most pugnacious criticisms of Freud and of repressed memory, but it is questionable to me how much the dangerous and theoretically poor "repressed memory" and somatic traumatic memory ideas actually have to do with Freud and the European psychoanalytical tradition so much as American practitioners vaguely inspired by Freud).
+* Gay, P. *Freud*.
 * Laplanche, J. *Après-coup : Problématiques VI*.
 * Webster, R. *Why Freud Was Wrong*. (Similar reservations as I have about Crews: some nuggets of the most powerful critiques of some of Freud's ideas are to be found here, but Webster often overstates his case, his Rylean logical-behaviorist arguments about the philosophy of mind are poor, and he is clearly ignorant of the intellectual history of 19th century Central European science and medicine and the subsequent history of the European psychoanalytic movement).
 
@@ -73,6 +82,7 @@
 * Leader, D. *Why Can't We Sleep?*
 * Lear, J. *Wisdom Won from Ilnness*.
 * Masson, J. *The Assault on Truth*.
+* McGaugh, J.L. *Memory and Emotion*.
 * Mitchell, J. *Mad Men and Medusas*.
 * Paris, J. *The Fall of an Icon*.
 * Showalter, E. *Hystories*.
