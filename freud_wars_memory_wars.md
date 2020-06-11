@@ -27,9 +27,9 @@
 * Lustig, C. and Hasher, L. "Implicit memory is not immune to interference.", *Psychological Bulletin* 127:618–28
 * McNally, R. *Remembering Trauma*.
 * --. "Debunking Myths about Trauma and Memory", *Canadian Journal of Psychiatry* 50(13)
-* McNally, R. and Clancy, S.A. "Sleep paralysis, sexual abuse, and space alienabduction", *Transcultural Psychiatry* 42:113-122.
+* McNally, R. and Clancy, S.A. "Sleep paralysis, sexual abuse, and space alien abduction", *Transcultural Psychiatry* 42:113-122.
 * McNally, R. et al. "Psychophysiological responding during script-driven imagery in people reporting abduction by space aliens", *Psychological Sciences* 15:493-497.
-* Orr, S.P. et al. "Psychophysiology of posttraumatic stressdisorder", *Psychiatric Clinics of North America* 25:271-293.
+* Orr, S.P. et al. "Psychophysiology of posttraumatic stress disorder", *Psychiatric Clinics of North America* 25:271-293.
 * Patihis, L. et al. "Are the 'Memory Wars' Over? A Scientist-Practioner Gap in Beliefs About Repressed Memory", *Psychological Science* 25(2).
 * Pendergast, M. *The Repressed Memory Epidemic*.
 * Squire, L. and Kandel, E. *Memory*.
