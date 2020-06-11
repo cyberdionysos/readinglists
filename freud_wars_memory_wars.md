@@ -15,7 +15,7 @@
 * --. *The Interpretation of Dreams*.
 * --. *Totem and Taboo*.
 * Freud, S. and Breuer, J. *Studies on Hysteria*.
-* Keane, T.M. et al. "Utility of psychophysiological measurement in the diagnosis ofposttraumatic stress disorder: results from a Department of Veterans AffairsCooperative Study" *Journal of Consulting and Clinical Psychology* 66:914-923.
+* Keane, T.M. et al. "Utility of psychophysiological measurement in the diagnosis of posttraumatic stress disorder: results from a Department of Veterans Affairs Cooperative Study" *Journal of Consulting and Clinical Psychology* 66:914-923.
 * Laplanche, J. and Pontalis, J-B. *Vocabulaire de la psychanalyse*.
 * Lacan, J. *Séminaire X*.
 * --. *Séminaire XXII*.
