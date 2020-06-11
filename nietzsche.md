@@ -25,6 +25,7 @@
 * Kastafanas, P. "The Concept of Unified Agency in Nietzsche, Plato, and Schiller", *Journal of the History of Philosophy* 49(1)87-113.
 * --. "Nietzsche on Agency and Self-Ignorance", *Journal of Nietzsche Studies* 43(1):5-17.
 * --. "Nietzsche and Kant on the Will: Two Models of Reflective Agency", *Philosophy and Phenomenological Research* 89(1):185-216.
+* Kaulbach, F. *Philosophie des Perspektivismus*.
 * Klossowski, P. *Nietzsche et le cercle vicieux*.
 * May, S. ed. *Nietzsche's On the Genealogy of Morals*.
 * Montinari, M. *Nietzsche Lesen*.
@@ -118,8 +119,13 @@
 * --. *Nietzsche on Decadence and the Flourishing of Culture*.
 * Hunt, L. *Nietzsche and the Origin of Virtue*.
 * Janaway, C. "Nietzsche's Illustraion of the Art of Exegesis", *European Journal of Philosophy* 5(3):251-269.
+* --. *Beyond Selflessness*.
+* Janaway, C. and Robertson, S. eds. *Nietzsche, Naturalism, and Normativity*.
 * Kastafanas, P. *The Nietzschean Self*.
+* --. "Deriving Ethics from Action: A Nietzschean Version of Constitutivism", *Philosophy and Phenomenological Research* 83(3):620-660.
+* Kaulbach, F. *Nietzsches Idee einer Experimentalphilosophie*.
 * Knoll, M. and Stocker, B. eds. *Nietzsche as Political Philosopher*.
+* Kofman, S. *Nietzsche et la métaphore*.
 * Losurdo, D. *Nietzsche, der aristokratische Rebell: Intellektuelle Biographie und kritische Bilanz*.
 * Nietzsche, F. *Zur Geschichte der Theognideischen Spruchsammlung*.
 * --. *De Laertii Diogenis fontibus*.
