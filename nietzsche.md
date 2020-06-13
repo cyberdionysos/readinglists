@@ -10,6 +10,7 @@
 * Berry, J. *Nietzsche and the Ancient Skeptical Tradition*.
 * Deleuze, G. *Nietzsche et la philosophie*.
 * Drochon, H. *Nietzsche's Great Politics*.
+* Fett, O. "Zur Nietzsche-Rezeption in der DDR: Der Konflikt der achtziger Jahre aus moralphilosophischer Sicht", *Zeitschrift für Kultur-und-Geisteswissenshaften* 1(3):3-14.
 * Figal, G. *Nietzche.*
 * Fink, E. *Nietzsches Philosophie*.
 * Gemes, K. and May, S. eds. *Nietzsche on Freedom and Autonomy*.
@@ -63,6 +64,10 @@
 * Ridley, A. "Nietzsche on Art and Freedom", *European Journal of Philosophy* 15(2):204-224.
 * Safranski, R. *Nietzsche*.
 * Simmel, G. *Schopenhauer und Nietzsche*.
+* Sommer, A.U. *Kommentar zu Nietzsches Jenseits von Gut und Böse*
+* --. *Kommentar zu Nietzsches Der Fall Wagner*.
+* --. *Kommentar zu Nietzsches Der Antichrist. Ecce homo. Dionysos-Dithyramben. Nietzsche contra Wagner*.
+* --. *Nietzsche und die Folgen.*
 * Thiele, L.P. *Friedrich Nietzsche and the Politics of the Soul*.
 
 # Recommended with reservations/qualifications
@@ -75,6 +80,7 @@
 * Jaspers, K. *Nietzsche*.
 * Kaufmann, W. *Nietzsche: Philosopher, Psychologist, Antichrist*.
 * Leiter, B. and Sinhababu, N. eds. *Nietzsche and Morality*.
+* Löwith, K. *Nietzsche*.
 * Richardson, J. *Nietzsche's System*.
 * Solomon, R.C. and Higgins, K. eds. *Reading Nietzsche.*
 
@@ -84,6 +90,8 @@
 * Foucault, M. «Nietzsche, la généalogie, l'histoire» (Note: I disrecommend this about *Nietzsche*. It's good about Foucault himself)
 * Hatab, L. *A Nietzschean Defense of Democracy: An Experiment in Postmodern Politics*.
 * Leiter, B. *Nietzsche on Morality*.
+* Lukács, G. *Die Zerstörung der Vernunft.* (The Nietzsche chapter at any rate).
+* Tanner, M. *Nietzsche: A Very Short Introduction*.
 
 # To-read
 
@@ -96,6 +104,8 @@
 * Ansell-Pearson, K. "Heroic-Idyllic Philosophizing: Nietzsche and the Epicurean Tradition", *Royal Institute of Philosophy Supplement* 74:237-263.
 * --. *An Introduction to Nietzsche as Political Thinker*.
 * --. *How to Read Nietzsche*.
+* Aschheim, S.E. *The Nietzsche Legacy in Germany*. 
+* Backhaus, J.G. and Dreschsler, W. *Friedrich Nietzsche*.
 * Benne, C. and Zittel, C. eds. *Nietzsche und die Lyrik*.
 * Came, D. ed. *Nietzsche on Art and Life*.
 * Cate, C. *Friedrich Nietzsche*.
@@ -143,5 +153,9 @@
 * Römpp, G. *Nietzsche leicht gemacht*.
 * Schacht, R. ed. *Nietzsche's Postmoralism*.
 * Shaw, T. *Nietzsche's Political Skepticism*.
+* Stegmeier, W. *Nietzsche zur Einführung*. 2e.
+* Swassjan, K. *Nietzsche – Versuch einer Gottwerdung*.
+* Tongeren, P.v. *Reinterpreting Modern Culture*.
+* Türcke, C. *Der tolle Mensch*.
 * Zittel, C. *Das ästhetische Kalkül von Friedrich Nietzsches „Also sprach Zarathustra“*.
 * --. *Selbstaufhebungsfiguren bei Nietzsche*.
