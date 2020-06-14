@@ -118,7 +118,7 @@
 * --. "Postmodernism's Use and Abuse of Nietzsche", *Philosophy and Phenomenological Research* 62(2):337-360.
 * --. "Freud and Nietzsche on Sublimation", *Journal of Nietzsche Studies* 38:38-59.
 * --. "Janaway on Perspectivism", *European Journal of Philosophy* 17(1):101-112.
-* Green, M. *Nietzsche and the Transcendental Condition*. 
+* Green, M. *Nietzsche and the Transcendental Tradition*. 
 * Hales, S. and Welshon, R. *Nietzsche's Perspectivism.*
 * Hatab, L. *Nietzsche's Life Sentence*.
 * Harman, R. *Nietzsche*.
